@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -40,13 +40,19 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 2
+    },
+    {
+      "name": "McFarlane",
+      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/gallery/mcfarlane-toys-avatar/3e9286e11fa241e29d97c785792ab476xl.jpg",
+      "likes": 2,
+      "id": 9
     }
   ]
 }

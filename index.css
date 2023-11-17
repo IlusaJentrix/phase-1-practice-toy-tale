@@ -13,7 +13,7 @@ body {
 }
 
 #toy-header img {
-  height: 6rem;
+  height: 4rem;
   width: auto;
 }
 
@@ -25,18 +25,19 @@ body {
   text-align: center;
   border: grey solid 1px;
   padding: 1rem;
-  width: 15rem;
+  width: 20rem;
   height: 25rem;
   display: inline-grid;
   margin: 1rem 2rem;
-  box-shadow: 3px 4px #e04b52
+  box-shadow: 3px 4px #e04b52;
 }
 
 .toy-avatar {
   justify-self: center;
   height: 12rem;
-  width: auto;
+  width: 12rem; /* Adjust the width to your desired size */
 }
+
 
 button {
   position: relative;
